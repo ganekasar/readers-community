@@ -23,6 +23,7 @@
     "geocoder": "^0.2.3",
     "method-override": "^2.3.10",
     "moment": "^2.27.0",
+    "mongodb": "^3.6.2",
     "mongoose": "^4.11.9",
     "nodemon": "^2.0.4",
     "passport": "^0.3.0",
